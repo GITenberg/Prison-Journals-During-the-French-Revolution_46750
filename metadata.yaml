@@ -1,4 +1,8 @@
 _repo: Prison-Journals-During-the-French-Revolution_46750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46750-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Durfort, Louise Henriette Charlotte Philippine (de Noailles) de
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '43933'
     url: http://www.gutenberg.org/2009/agents/43933
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46750#Prison-Journals-During-the-French-Revolution
 gutenberg_issued: '2014-09-01'
 gutenberg_type: Text
 identifiers:
